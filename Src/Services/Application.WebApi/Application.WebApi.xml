@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Application.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Application.WebApi.Controllers.JurosController.Get(System.Decimal,System.Int32)">
+            <summary>
+            Retorna resultado do calculo de juros
+            </summary>
+            <param name="valorInicial"></param>
+            <param name="meses"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.WebApi.Controllers.JurosController.ShowmeTheCode">
+            <summary>
+            Retorna url do projeto no github
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.WebApi.Controllers.TaxaController.Get">
+            <summary>
+            Retorna valor taxa de juro
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
