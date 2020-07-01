@@ -2,6 +2,8 @@
 {
     public class TaxaJuros
     {
+        private TaxaJuros() { }
+
         public TaxaJuros(decimal valorTaxa)
         {
             ValorTaxa = valorTaxa;
